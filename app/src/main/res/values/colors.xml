@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="color_splash_back">#ffffff</color>
     <color name="color_splash_background_30">#B2000000</color>
+    <color name="color_FF7F1D">#FF7F1D</color>
+    <color name="color_ADADAD">#ADADAD</color>
 </resources>
